@@ -62,4 +62,4 @@ com todas as letras minúsculas.
 ### Saída
  Imprima o nome do animal correspondente à entrada fornecida.
  
- <img src="TRABALHOS/Trabalho 4 - Sistema de Notas e Animais/Questões/saidaAnimal.png" alt="Descrição da imagem">
+ <img src="https://github.com/ryanoliveira466/atividadesAlgoritmos/blob/main/TRABALHOS/Trabalho%204%20-%20Sistema%20de%20Notas%20e%20Animais/Quest%C3%B5es/saidaAnimal.png" alt="Descrição da imagem">
