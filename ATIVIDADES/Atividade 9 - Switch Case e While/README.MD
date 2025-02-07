@@ -24,4 +24,3 @@
 
 ---
 
-Essas questões combinam o uso de loops `while` e a estrutura de controle `switch case`, duas das construções fundamentais em programação, e ajudam a praticar interações com o usuário, condicionalmente. Aplique sua criatividade e pense em diferentes formas de utilizar essas estruturas para resolver os desafios propostos!
