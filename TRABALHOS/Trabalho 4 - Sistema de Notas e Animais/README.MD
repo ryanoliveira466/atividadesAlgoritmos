@@ -53,7 +53,7 @@ Neste problema, você deverá ler 3 palavras que de nem o tipo de animal possív
  da esquerda para a direita.  Em seguida conclua qual dos animais seguintes foi escolhido, através das três
  palavras fornecidas.
  
- <img src="TRABALHOS/Trabalho 4 - Sistema de Notas e Animais/Questões/expAnimal.png" alt="Descrição da imagem">
+ <img src="https://github.com/ryanoliveira466/atividadesAlgoritmos/blob/main/TRABALHOS/Trabalho%204%20-%20Sistema%20de%20Notas%20e%20Animais/Quest%C3%B5es/expAnimal.png" alt="Descrição da imagem">
  
 ### Entrada
 A entrada contém 3 palavras, uma em cada linha, necessárias para identi car o animal segundo a gura acima,
