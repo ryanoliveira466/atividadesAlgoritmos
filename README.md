@@ -1,2 +1,3 @@
 # atividadesAlgoritmos
-Atividades Algoritmos
+Atividades sobre algoritmos e lógica de programação usando JavaScript
+
