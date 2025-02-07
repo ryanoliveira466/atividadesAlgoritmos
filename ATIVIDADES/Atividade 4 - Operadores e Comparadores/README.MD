@@ -52,7 +52,7 @@ do seu melhor amigo?"**, seguido pela resposta (
  <span style="color: red">true</span> ou 
  <span style="color: red">false</span> )
 
- d) Imprima no console a diferença de idade (não tem problema se sair um 
+ **d**) Imprima no console a diferença de idade (não tem problema se sair um 
 número negativo
 
 ---
