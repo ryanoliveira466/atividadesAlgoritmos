@@ -40,7 +40,7 @@ Por exemplo:
 3. Suponha que temos duas variáveis 
 **a** e **b**, cada uma com um valor inicial
 
-```bash
+```javascript
 let a = 10
 let b = 25
 ```
@@ -51,7 +51,7 @@ Agora, queremos trocar os valores delas, de forma que
 **a** . 
 Ou seja, no caso desse exemplo acima, **a** passaria a ser 25 e **b** passaria a ser 10
 
-```bash
+```javascript
 let a = 10 
 let b = 25 
  
@@ -89,7 +89,7 @@ lógica do seu programa teria que mudar também).
  1. Analise o programa abaixo e diga o que será impresso no console, SEM 
 EXECUTAR o programa
 
-```bash
+```javascript
 let a = 10 
 let b = 10 
 console.log(b) 
@@ -100,7 +100,7 @@ console.log(a, b)
 2. Analise o programa abaixo e diga o que será impresso no console, SEM 
 EXECUTAR o programa.
 
-```bash
+```javascript
 let a = 10 
 let b = 20 
 c = a 
@@ -114,7 +114,7 @@ para as variáveis. Lembre-se que devemos escolher nomes significativos,
 usar o padrão camelCase. Alem disso, os nomes não podem começar com 
 números ou caracteres especiais.
 
-```bash
+```javascript
 let p = leitor.question("Quantas horas você trabalha por dia?") 
 let t = leitor.question("Quanto você recebe por dia?") 
 console.log(`Voce recebe ${t/p} por hora`)
