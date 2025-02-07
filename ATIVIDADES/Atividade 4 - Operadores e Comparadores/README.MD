@@ -39,7 +39,7 @@ valor impresso no console seja, de fato, a soma dos dois números.
 
 <br><br><br>
 
-## Exercícios de escrita de código
+# Exercícios de escrita de código
 
 1. Faça um programa que:
 
