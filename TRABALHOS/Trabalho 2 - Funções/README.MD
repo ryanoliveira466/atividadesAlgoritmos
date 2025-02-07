@@ -11,7 +11,7 @@ linhas separadas?
  
  **When you define a function, you define the parameters that can be passed to it.**
  
-** When you call a function, you pass arguments for the parameters.**
+**When you call a function, you pass arguments for the parameters.**
  
  ---
  
