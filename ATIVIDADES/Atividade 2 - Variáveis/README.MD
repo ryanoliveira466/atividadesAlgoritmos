@@ -1,4 +1,4 @@
-## Atividade 1 - Variáveis
+# Atividade 1 - Variáveis
  1. Construa um programa, seguindo os seguintes passos:
  
  **a**) Declare uma variável para armazenar um nome, sem atribuir um valor.
@@ -69,3 +69,53 @@ seja: não basta dizer que
 **a = 25** e 
 **b = 10** porque se os valores iniciais mudarem, a 
 lógica do seu programa teria que mudar também).
+
+
+<br><br><br><br><br>
+
+# Desafio Variáveis
+
+1. Faça um programa que receba dois números do usuário e execute as seguintes operações, imprimindo os resultados no console:
+
+    a. O primeiro número somado ao segundo número resulta em: `x`.
+    
+    b. O primeiro número multiplicado pelo segundo número resulta em: `y`.
+
+---
+
+<br><br><br><br><br>
+
+# Interpretação de Código
+ 1. Analise o programa abaixo e diga o que será impresso no console, SEM 
+EXECUTAR o programa
+
+```bash
+let a = 10 
+let b = 10 
+console.log(b) 
+b = 5 
+console.log(a, b)
+```
+
+2. Analise o programa abaixo e diga o que será impresso no console, SEM 
+EXECUTAR o programa.
+
+```bash
+let a = 10 
+let b = 20 
+c = a 
+b = c 
+a = b 
+console.log(a, b, c)
+```
+
+3. Analise o programa abaixo, entenda o que ele faz e sugira melhores nomes 
+para as variáveis. Lembre-se que devemos escolher nomes significativos, 
+usar o padrão camelCase. Alem disso, os nomes não podem começar com 
+números ou caracteres especiais.
+
+```bash
+let p = leitor.question("Quantas horas você trabalha por dia?") 
+let t = leitor.question("Quanto você recebe por dia?") 
+console.log(`Voce recebe ${t/p} por hora`)
+```
