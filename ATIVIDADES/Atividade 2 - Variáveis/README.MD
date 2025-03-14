@@ -80,7 +80,7 @@ lógica do seu programa teria que mudar também).
     
     **b)**. O primeiro número multiplicado pelo segundo número resulta em: `y`.
 
----
+
 
 <br><br><br><br><br>
 
