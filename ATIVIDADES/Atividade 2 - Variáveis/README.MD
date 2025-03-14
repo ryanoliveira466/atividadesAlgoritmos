@@ -6,13 +6,13 @@
  **b**) Declare uma variável para armazenar uma idade, sem atribuir um valor.
  
  **c**) Imprima na tela o tipo dessas variáveis que acabou de criar, usando o comando 
-typeof .
+typeof.
 
  **d**) Reflita: por que esse tipo foi impresso? Escreva a resposta em um comentário 
 de código.
 
  **e**) Pergunte ao usuário seu nome e sua idade, atribuindo esses dois valores às 
-variáveis que acabou de criar
+variáveis que acabou de criar.
 
 **f**) Novamente, imprima na tela o tipo dessas variáveis. O que você notou? Escreva 
 em um comentário de código.
@@ -20,7 +20,7 @@ em um comentário de código.
  **g**) Para finalizar, imprima na tela a mensagem:
  
  "Olá <span style="color:red">nome</span>, você tem <span style="color:red">idade</span> anos".
- Onde <span style="color:red">nome</span> e <span style="color:red">idade</span> são os valores que o usuário inseriu
+ Onde <span style="color:red">nome</span> e <span style="color:red">idade</span> são os valores que o usuário inseriu.
  
  ---
  
@@ -29,7 +29,7 @@ em um comentário de código.
  2 - Escreva um programa que faça 3 perguntas de Sim ou Não, armazenado em uma 
 variável. Por exemplo: **"Você está usando uma roupa azul hoje?"**. Depois, siga os passos:
 
- **a**) Crie três novas variáveis, contendo as respostas
+ **a**) Crie três novas variáveis, contendo as respostas.
  
  **b**) Imprima na tela todas as perguntas seguidas por suas respectivas respostas. 
 Por exemplo:
@@ -48,7 +48,7 @@ Agora, queremos trocar os valores delas, de forma que
 **a** passe a ter o valor de **b** e
  **b** passe a ter o valor de 
 **a** . 
-Ou seja, no caso desse exemplo acima, **a** passaria a ser 25 e **b** passaria a ser 10
+Ou seja, no caso desse exemplo acima, **a** passaria a ser 25 e **b** passaria a ser 10.
 
 ```javascript
 let a = 10 
@@ -76,9 +76,9 @@ lógica do seu programa teria que mudar também).
 
 1 - Faça um programa que receba dois números do usuário e execute as seguintes operações, imprimindo os resultados no console:
 
-    **a)**. O primeiro número somado ao segundo número resulta em: `x`.
-    
-    **b)**. O primeiro número multiplicado pelo segundo número resulta em: `y`.
+   **a)** O primeiro número somado ao segundo número resulta em: `x`
+   
+   **b)** O primeiro número multiplicado pelo segundo número resulta em: `y`
 
 
 
@@ -86,7 +86,7 @@ lógica do seu programa teria que mudar também).
 
 ## Enunciado 2 - Análise
  **a)** Analise o programa abaixo e diga o que será impresso no console, SEM 
-EXECUTAR o programa
+EXECUTAR o programa.
 
 ```javascript
 let a = 10 
