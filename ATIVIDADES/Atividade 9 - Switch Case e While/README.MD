@@ -36,6 +36,3 @@
 6 - **Crie um loop "while" que solicite ao usuário uma opção de transporte (carro, ônibus ou bicicleta) e exiba uma mensagem informando a velocidade média correspondente usando "switch case".**
 
 7 - **Faça um loop "while" que peça ao usuário para digitar um número de 1 a 5 e, em seguida, use "switch case" para exibir uma mensagem correspondente ao número digitado.**
-
----
-
