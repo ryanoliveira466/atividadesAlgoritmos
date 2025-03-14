@@ -33,4 +33,3 @@ npm -v
 ```bash
 node nomeDoScript.js
 ```
-
