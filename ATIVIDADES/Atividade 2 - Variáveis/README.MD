@@ -26,7 +26,7 @@ em um comentário de código.
  
  
  
- 2.Escreva um programa que faça 3 perguntas de Sim ou Não, armazenado em uma 
+ 2 - Escreva um programa que faça 3 perguntas de Sim ou Não, armazenado em uma 
 variável. Por exemplo: **"Você está usando uma roupa azul hoje?"**. Depois, siga os passos:
 
  **a**) Crie três novas variáveis, contendo as respostas
@@ -36,7 +36,7 @@ Por exemplo:
 
 ---
 
-3.Suponha que temos duas variáveis 
+3 - Suponha que temos duas variáveis 
 **a** e **b**, cada uma com um valor inicial
 
 ```javascript
@@ -74,7 +74,7 @@ lógica do seu programa teria que mudar também).
 
 ## Desafio Variáveis
 
-1.Faça um programa que receba dois números do usuário e execute as seguintes operações, imprimindo os resultados no console:
+1 - Faça um programa que receba dois números do usuário e execute as seguintes operações, imprimindo os resultados no console:
 
     **a)**. O primeiro número somado ao segundo número resulta em: `x`.
     
