@@ -1,4 +1,4 @@
-## Atividade 1 - Variáveis
+## Enunciado 1 - Variáveis
  1. Construa um programa, seguindo os seguintes passos:
  
  **a**) Declare uma variável para armazenar um nome, sem atribuir um valor.
@@ -20,7 +20,6 @@ em um comentário de código.
  **g**) Para finalizar, imprima na tela a mensagem:
  
  "Olá <span style="color:red">nome</span>, você tem <span style="color:red">idade</span> anos".
- 
  Onde <span style="color:red">nome</span> e <span style="color:red">idade</span> são os valores que o usuário inseriu
  
  ---
@@ -63,7 +62,7 @@ console.log("O novo valor de b é", b) // O novo valor de b é 10
 ```
 
 
-Crie a lógica que deve ser inserida no código para que os valores de a e b sejam 
+Crie a lógica que deve ser inserida no código para que os valores de **a** e **b** sejam 
 trocados, independente de qual valor essas variáveis assumam inicialmente (ou 
 seja: não basta dizer que 
 **a = 25** e 
@@ -71,22 +70,22 @@ seja: não basta dizer que
 lógica do seu programa teria que mudar também).
 
 
-<br><br><br><br><br>
 
-# Desafio Variáveis
+
+## Desafio Variáveis
 
 1. Faça um programa que receba dois números do usuário e execute as seguintes operações, imprimindo os resultados no console:
 
-    a. O primeiro número somado ao segundo número resulta em: `x`.
+    **a)**. O primeiro número somado ao segundo número resulta em: `x`.
     
-    b. O primeiro número multiplicado pelo segundo número resulta em: `y`.
+    **b)**. O primeiro número multiplicado pelo segundo número resulta em: `y`.
 
 ---
 
 <br><br><br><br><br>
 
-# Interpretação de Código
- 1. Analise o programa abaixo e diga o que será impresso no console, SEM 
+## Enunciado 2 - Análise
+ **a)** Analise o programa abaixo e diga o que será impresso no console, SEM 
 EXECUTAR o programa
 
 ```javascript
@@ -97,7 +96,7 @@ b = 5
 console.log(a, b)
 ```
 
-2. Analise o programa abaixo e diga o que será impresso no console, SEM 
+**b)** Analise o programa abaixo e diga o que será impresso no console, SEM 
 EXECUTAR o programa.
 
 ```javascript
@@ -109,7 +108,7 @@ a = b
 console.log(a, b, c)
 ```
 
-3. Analise o programa abaixo, entenda o que ele faz e sugira melhores nomes 
+**c)** Analise o programa abaixo, entenda o que ele faz e sugira melhores nomes 
 para as variáveis. Lembre-se que devemos escolher nomes significativos, 
 usar o padrão camelCase. Alem disso, os nomes não podem começar com 
 números ou caracteres especiais.
