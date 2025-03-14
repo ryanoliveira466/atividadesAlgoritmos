@@ -1,4 +1,4 @@
-# Atividade 1 - Variáveis
+## Atividade 1 - Variáveis
  1. Construa um programa, seguindo os seguintes passos:
  
  **a**) Declare uma variável para armazenar um nome, sem atribuir um valor.
