@@ -1,6 +1,6 @@
 let arr = [8, 5, 3, 5, 8, 8];
 
-//como os elementos estão em ordem então a lógica do for funcionapra sem problemas
+//como os elementos estão em ordem então a lógica do for funcionará sem problemas
 arr.sort((a, b) => a - b);
 
 
